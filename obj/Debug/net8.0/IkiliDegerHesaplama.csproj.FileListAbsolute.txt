@@ -1,0 +1,14 @@
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\bin\Debug\net8.0\IkiliDegerHesaplama.exe
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\bin\Debug\net8.0\IkiliDegerHesaplama.deps.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\bin\Debug\net8.0\IkiliDegerHesaplama.runtimeconfig.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\bin\Debug\net8.0\IkiliDegerHesaplama.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\bin\Debug\net8.0\IkiliDegerHesaplama.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\obj\Debug\net8.0\IkiliDegerHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\obj\Debug\net8.0\IkiliDegerHesaplama.AssemblyInfoInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\obj\Debug\net8.0\IkiliDegerHesaplama.AssemblyInfo.cs
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\obj\Debug\net8.0\IkiliDegerHesaplama.csproj.CoreCompileInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\obj\Debug\net8.0\IkiliDegerHesaplama.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\obj\Debug\net8.0\refint\IkiliDegerHesaplama.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\obj\Debug\net8.0\IkiliDegerHesaplama.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\obj\Debug\net8.0\IkiliDegerHesaplama.genruntimeconfig.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\IkiliDegerHesaplama\obj\Debug\net8.0\ref\IkiliDegerHesaplama.dll
